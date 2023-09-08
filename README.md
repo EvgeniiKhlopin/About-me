@@ -10,4 +10,4 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EvgeniiKhlopin&theme=dark&background=brightgreen)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EvgeniiKhlopin&theme=dark&locale=ru&mode=weekly)](https://git.io/streak-stats)
