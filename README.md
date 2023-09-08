@@ -8,6 +8,6 @@
 
 ---
 
-### :fire: My Stats :
+### :fire: Моя статистика :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EvgeniiKhlopin&theme=dark&locale=ru&mode=weekly)](https://git.io/streak-stats)
