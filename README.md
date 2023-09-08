@@ -7,7 +7,8 @@
 </div>
 
 <h1 align="center">
-  Всем привет!
+  Всем привет! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 ### Обо мне:
