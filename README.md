@@ -2,7 +2,9 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500"/>
 </div>
 
+<div align="center">
 ![](https://komarev.com/ghpvc/?username=EvgeniiKhlopin)
+</div>
 
 # Всем привет!
 
