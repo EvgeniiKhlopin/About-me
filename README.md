@@ -2,8 +2,10 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500"/>
 </div>
 
+<div id="badges" align="center">
+<img src="https://komarev.com/ghpvc/?username=EvgeniiKhlopin&color=brightgreen&style=flat-square&label=PROFILE+VIEWS"/>
+</div>
 
-![](https://komarev.com/ghpvc/?username=EvgeniiKhlopin&color=brightgreen&style=flat-square&label=PROFILE+VIEWS)
 
 # Всем привет!
 
