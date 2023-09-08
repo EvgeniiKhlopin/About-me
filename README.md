@@ -3,7 +3,7 @@
 </div>
 
 
- ![](https://komarev.com/ghpvc/?username=EvgeniiKhlopin&color=brightgreen)
+ ![](https://komarev.com/ghpvc/?username=EvgeniiKhlopin&color=brightgreen&style=flat-square)
 
 # Всем привет!
 
