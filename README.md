@@ -25,7 +25,7 @@
 ### Мои сертификаты :
 
 Тестирование ПО: Postman для тестирования API
-[![Stepik](https://stepik.org/cert/2200001)
+https://stepik.org/cert/2200001
 
 ### :fire: Моя статистика : 
 
