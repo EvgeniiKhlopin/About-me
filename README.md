@@ -28,6 +28,8 @@
 
 https://stepik.org/cert/2200001
 
+---
+
 ### :fire: Моя статистика : 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EvgeniiKhlopin&theme=dark&locale=ru&mode=weekly)](https://git.io/streak-stats)
